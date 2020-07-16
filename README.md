@@ -1,4 +1,4 @@
-# Android Test
+# Android Employees-App in MVVM architecture
 
 This is a simple application of a company, displaying managers and their employees in a list.
 The main role of the app is to demonstrate MVVM (Model-View-ViewModel) architecture, using LiveData and ViewModel build-in android components.
